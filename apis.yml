@@ -1,8 +1,12 @@
 aid: trovy
 name: Trovy
-description: 'Trovy is a company surfaced as a portfolio company of kleiner-perkins and added to the API
-  Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Trovy (Trovy Technologies, Inc.) is a Kleiner Perkins-backed fintech building
+  "the homeowner platform" -- consumer credit products that turn home equity into a flexible
+  financial tool. Its flagship Trovy HELOC Card is a credit card powered by home equity
+  with variable APRs as low as 5.99%, alongside the Trovy 1Loan home-equity loan, with
+  preapproval in minutes and rewards, balance-transfer, and payment-calculator features.
+  Trovy is a consumer product and publishes no public developer API, docs, or SDK surface
+  as of July 2026.'
 url: https://raw.githubusercontent.com/api-evangelist/trovy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +14,79 @@ x-backed-by:
 - kleiner-perkins
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Fintech
+- HELOC
+- Home Equity
+- Credit Cards
+- Lending
+- Consumer Finance
+image: https://trovy.com/favicon.svg
 apis: []
+common:
+- type: DomainSecurity
+  url: security/trovy-domain-security.yml
+- name: Website
+  type: Website
+  url: https://trovy.com
+- name: Support
+  type: Support
+  url: https://trovy.com/contact-us
+- name: FAQ
+  type: FAQ
+  url: https://trovy.com/faqs
+- name: Blog
+  type: Blog
+  url: https://trovy.com/insights
+- name: Pricing
+  type: Pricing
+  url: https://trovy.com/servicing-fee-schedule
+- name: Sign Up
+  type: SignUp
+  url: https://trovy.com/apply
+- name: Login
+  type: Login
+  url: https://trovy.com/app/login
+- name: Terms of Service
+  type: TermsOfService
+  url: https://trovy.com/terms-of-use
+- name: Privacy Policy
+  type: PrivacyPolicy
+  url: https://trovy.com/privacy-policy
+- name: Careers
+  type: Careers
+  url: https://trovy.com/careers
+- name: About
+  type: About
+  url: https://trovy.com/company
+- name: Licenses
+  type: Licenses
+  url: https://trovy.com/licenses
+- name: LLMs.txt
+  type: LLMsTxt
+  url: llms/trovy-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1

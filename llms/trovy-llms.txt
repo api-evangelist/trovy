@@ -1,0 +1,31 @@
+# Trovy
+
+> Trovy (Trovy Technologies, Inc.) is a Kleiner Perkins-backed fintech building "the homeowner platform" -- consumer credit products that turn home equity into a flexible financial tool. Its flagship Trovy HELOC Card is a credit card powered by home equity, alongside the Trovy 1Loan home-equity loan. Trovy is a consumer product and publishes no public developer API, docs, or SDK surface as of July 2026.
+
+Trovy takes its name from trouver -- French for "find" -- and the treasure trove. Founders: TJ Milani (CEO) and Ashley Harris (COO). Products: Trovy HELOC Card and Trovy 1Loan, with rewards, balance transfer, referral program, and a payment calculator.
+
+## Company
+
+- [Website](https://trovy.com): Trovy - Your home's equity, in your wallet
+- [About](https://trovy.com/company): About Trovy - The Homeowner Platform
+- [Contact](https://trovy.com/contact-us): Contact Trovy
+- [FAQs](https://trovy.com/faqs): Frequently asked questions
+- [Careers](https://trovy.com/careers): Careers at Trovy
+- [Resource Hub](https://trovy.com/insights): Articles on HELOCs and home equity
+
+## Products
+
+- [Trovy HELOC Card](https://trovy.com/): Credit card powered by home equity
+- [Trovy 1Loan](https://trovy.com/1loan): Home-equity loan
+- [Rewards](https://trovy.com/rewards): Trovy Card rewards program
+- [Payment Calculator](https://trovy.com/paymentcalculator): Estimate payments
+
+## Legal
+
+- [Terms of Use](https://trovy.com/terms-of-use)
+- [Privacy Policy](https://trovy.com/privacy-policy)
+- [Licenses](https://trovy.com/licenses)
+- [Card Disclosures](https://trovy.com/card-disclosures)
+- [Fee Schedule](https://trovy.com/servicing-fee-schedule)
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://trovy.com (no /llms.txt published; probed 404 on 2026-07-21) -->

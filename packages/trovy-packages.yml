@@ -1,0 +1,13 @@
+generated: '2026-07-21'
+method: searched
+source: npm, PyPI, GitHub org search, trovy.com
+packages: []
+notes: >-
+  No first-party client libraries found for Trovy (trovy.com, the Kleiner
+  Perkins-backed home-equity fintech, Trovy Technologies, Inc.). IMPORTANT
+  false-positive guard: the npm packages @trovyhq/sdk, @trovyhq/cli, and
+  @trovyhq/mcp-server (github.com/trovyhq, org created 2026-07-09, maintainer
+  outis25) belong to a DIFFERENT product -- a task-management app whose SDK
+  targets https://trovy.app with task refs like TF-12 -- and must not be
+  attributed to this provider. PyPI has no trovy package (404). Trovy
+  publishes no developer surface as of 2026-07-21.
